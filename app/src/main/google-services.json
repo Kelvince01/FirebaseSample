@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256393258349",
+    "project_id": "fir-sample-36fca",
+    "storage_bucket": "fir-sample-36fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256393258349:android:0324679d3d2d745ee8e664",
+        "android_client_info": {
+          "package_name": "com.timizatechnologies.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256393258349-50p7ea0r5dh0fsrrfta194688sdmr9db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3_B6-SvUvZ_UVw9EODeHNifg-NGJyts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256393258349-50p7ea0r5dh0fsrrfta194688sdmr9db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
